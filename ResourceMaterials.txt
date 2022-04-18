@@ -1,0 +1,24 @@
+1996 SmartContract paper: https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html
+Learn solidity: https://blockgeeks.com/guides/solidity/
+remix ide: https://remix-ide.readthedocs.io/en/latest/
+structure of smart contracts: https://docs.soliditylang.org/en/develop/structure-of-a-contract.html
+smart contracts: https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html
+gas contract and transaction: https://ethdocs.org/en/latest/contracts-and-transactions/account-types-gas-and-transactions.html
+*eth tokens smartcontract: https://k3no.medium.com/ethereum-tokens-smart-contracts-80f639f5c46b
+bitcoin mining: https://medium.com/all-things-ledger/decoding-the-enigma-of-bitcoin-mining-f8b2697bc4e2
+solidity faq: https://docs.soliditylang.org/en/v0.4.24/frequently-asked-questions.html
+solidity practice/learn: bookmarks google chrome
+types in solidity: https://docs.soliditylang.org/en/develop/types.html
+solidity tutorial: https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html
+solidity tutorial playlist: https://www.youtube.com/watch?v=8UhO3IKApSg
+contracts: https://docs.soliditylang.org/en/develop/contracts.html
+*contains everthing about solidity syntax: https://www.tutorialspoint.com/solidity/solidity_pure_functions.htm
+revert assert require: https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e
+events: https://www.youtube.com/watch?v=L5Au5DY8eL4
+events and logs: https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e
+best practices: https://consensys.github.io/smart-contract-best-practices/
+best practice of ux and interoperablity: https://medium.com/@maurelian/beyond-smart-contract-best-practices-for-ux-and-interoperability-6d94d27c1e0f
+
+
+//in v3 of ballot code in register the validstage is user defined accessmodifier and public is visibility modifier
+browsing through content came across this https://consensys.net/ site is hiring a lot of job profiles available so give it a go
